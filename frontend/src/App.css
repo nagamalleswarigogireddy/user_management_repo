@@ -1,0 +1,27 @@
+ .navbar {
+   min-height: 150px;
+ }
+ .navbar-brand {
+   padding: 0 15px;
+   height: 80px;
+   line-height: 80px;
+   font-size: 50px;
+   font-family:  Georgia, serif;
+ }
+ .navbar-toggle {
+   margin-top: 23px;
+   padding: 9px 10px !important;
+ }
+
+ .input-text{
+  width: 350px;
+  height: 40px;
+  border: none;
+ }
+ .round-img {
+  height: 280px;
+  width: 280px;
+  margin-top: 32px;
+  border: none;
+  border-radius: 55%;
+} 
